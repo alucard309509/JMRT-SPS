@@ -17,7 +17,7 @@ import kotlinx.android.synthetic.main.fragment_first.*
 import retrofit2.Call
 import retrofit2.Response
 
-
+//Fragmentos
 class FirstFragment : Fragment(R.layout.fragment_first) {
 
     lateinit var layoutManagerd:LinearLayoutManager
