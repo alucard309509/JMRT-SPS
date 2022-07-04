@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">JMRT-SPS</string>
+    <string name="api_key">acae9d34f05f4f4d9c6d8487234b1aa1</string>
+    <string name="nombreusuario">Nombre del aplicante</string>
+    <string name="nombreusuario2">Jose Manuel Ruiz Tellez</string>
+    <string name="frase"> Debes
+        confiar en tus propios poderes gohan</string>
+    String>
+    <string name="empezar">Empezar</string>
+
+    <string name="correoelectronico">Correo Electronico</string>
+
+    <string name="correoelectronico2">alucard309509@gmail.com</string>
+    <string name="mensajeerror">El usuario denegò los permisos de localizacion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.MainActivity">
+
+        <TextView
+            android:id="@+id/heading"
+            android:layout_width="330dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            android:text="@string/nombreusuario"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.641"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/inputresutado"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="15dp"
+            android:layout_marginTop="36dp"
+            android:text="@string/correoelectronico"
+            android:textAlignment="center"
+            android:textColor="@color/purple_200"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/heading"
+            app:layout_constraintStart_toStartOf="@+id/heading"
+            app:layout_constraintTop_toBottomOf="@+id/heading">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/mensajeerror"
+            android:layout_width="262dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="15dp"
+            android:layout_marginTop="24dp"
+            android:text="@string/mensajeerror"
+            android:textAlignment="center"
+            android:textColor="@color/rojo"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/inputresutado"
+            app:layout_constraintStart_toStartOf="@+id/inputresutado"
+            app:layout_constraintTop_toBottomOf="@+id/inputresutado"/>
+
+        <Button
+            android:id="@+id/ap"
+            android:layout_width="161dp"
+            android:layout_height="37dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/button"
+            android:text="@string/empezar"
+            android:textColor="#fff"
+            app:layout_constraintEnd_toEndOf="@+id/inputresutado"
+            app:layout_constraintHorizontal_bias="0.525"
+            app:layout_constraintStart_toStartOf="@+id/inputresutado"
+            app:layout_constraintTop_toBottomOf="@+id/mensajeerror" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

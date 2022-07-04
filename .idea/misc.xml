@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/drawable/button.xml" value="0.2585" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/drawable/ic_baseline_content_paste_search_24.xml" value="0.201" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/activity_news.xml" value="0.176" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/fragment_article.xml" value="0.24728260869565216" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/fragment_articles.xml" value="0.2164855072463768" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/fragment_articles2.xml" value="0.2164855072463768" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/fragment_articles3.xml" value="0.2956204379562044" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/fragment_first.xml" value="0.2164855072463768" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/fragment_home.xml" value="0.2164855072463768" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/fragment_second.xml" value="0.2164855072463768" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/fragment_third.xml" value="0.2164855072463768" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/layout/source_news.xml" value="0.264" />
+        <entry key="..\:/JRT/Descargas/JMRTSPS/app/src/main/res/menu/bottom_menu.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
