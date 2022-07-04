@@ -4,7 +4,7 @@ import com.alucard.jmrt_sps.Interface.NewsService
 import com.alucard.jmrt_sps.Remote.RetrofitClient
 
 class Constants {
-
+    //constantes
     //singlton donde se encuentra el valor de las constantes que se usaran en la aplicacion
     companion object{
 
